@@ -1,8 +1,4 @@
 name: Update Blog Posts
-
-permissions:
-  contents: read
-  pages: write
   
 on:
   push:
